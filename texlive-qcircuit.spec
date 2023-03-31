@@ -1,6 +1,6 @@
 Name:		texlive-qcircuit
 Version:	48400
-Release:	1
+Release:	2
 Summary:	Macros to generate quantum ciruits
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/qcircuit
