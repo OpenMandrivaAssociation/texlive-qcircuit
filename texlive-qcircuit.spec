@@ -3,7 +3,7 @@ Version:	48400
 Release:	2
 Summary:	Macros to generate quantum ciruits
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/qcircuit
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/qcircuit
 License:	gpl2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/qcircuit.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/qcircuit.doc.r%{version}.tar.xz
